@@ -40,7 +40,8 @@ I’m a passionate and detail-oriented **MERN Stack Developer** with a strong fo
 
 ### 🌐 Frameworks & Libraries  
 - React.js, Node.js, Express.js  
-- Material UI, Tailwind CSS, Bootstrap  
+- Material UI, Tailwind CSS, Bootstrap
+- Gsap, Three.js 
 
 ### 🛢 Databases & Cloud Platforms  
 - MySQL, MongoDB, Firebase  
